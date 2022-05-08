@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/instapets/static/css/main.bd9aa2ef.css",
-    "main.js": "/instapets/static/js/main.9efecc35.js",
+    "main.css": "/instapets/static/css/main.18d3bea2.css",
+    "main.js": "/instapets/static/js/main.3966c4b2.js",
     "static/media/logo-insta.png": "/instapets/static/media/logo-insta.89e6deb80390a3b796f5.png",
     "static/media/add-pic.png": "/instapets/static/media/add-pic.3e54731d8bae3b654e8d.png",
     "index.html": "/instapets/index.html",
-    "main.bd9aa2ef.css.map": "/instapets/static/css/main.bd9aa2ef.css.map",
-    "main.9efecc35.js.map": "/instapets/static/js/main.9efecc35.js.map"
+    "main.18d3bea2.css.map": "/instapets/static/css/main.18d3bea2.css.map",
+    "main.3966c4b2.js.map": "/instapets/static/js/main.3966c4b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd9aa2ef.css",
-    "static/js/main.9efecc35.js"
+    "static/css/main.18d3bea2.css",
+    "static/js/main.3966c4b2.js"
   ]
 }
